@@ -404,7 +404,7 @@ button {
 .hero-title-line--and {
   margin-top: 0.22rem;
   font-size: 0.58em;
-  font-weight: 400;
+  font-weight: 900;
   letter-spacing: 0.18em;
 }
 
@@ -414,7 +414,7 @@ button {
   font-size: clamp(1.25rem, 4.5vw, 3.8rem);
   text-align: center;
   white-space: nowrap;
-  font-weight: 300;
+  font-weight: 900;
   letter-spacing: 0.14em;
 }
 
@@ -557,14 +557,7 @@ button {
   font-weight: 900;
 }
 
-.section-title-light-inline {
-  display: inline;
-  margin-left: 0.35rem;
-  font-weight: 300;
-}
-
 .about-label,
-.about-closing,
 .section-copy,
 .why-copy {
   font-size: 0.95rem;
@@ -604,10 +597,6 @@ button {
 
 .bullet-icon i {
   font-size: 0.8rem;
-}
-
-.about-closing {
-  margin-top: 1rem;
 }
 
 .about-media img {
@@ -1788,4 +1777,8 @@ button {
 .hero-heading .hero-title-line--and {
   width: 100%;
   text-align: center;
+}
+
+.about-copy > .btn {
+  margin-top: 1.5rem;
 }
