@@ -1782,3 +1782,43 @@ button {
 .about-copy > .btn {
   margin-top: 1.5rem;
 }
+.hero-heading .hero-title-line--light {
+  width: 100%;
+  text-align: center;
+  font-weight: 900;
+}
+.hero-heading .hero-title-line--heavy {
+  width: 100%;
+  text-align: center;
+}
+.btn-social {
+  color: #ffffff;
+}
+
+.btn-social:hover {
+  color: #ffffff;
+}
+
+.btn-facebook {
+  background: #1877f2;
+}
+
+.btn-facebook:hover {
+  background: #166fe5;
+}
+
+.btn-instagram {
+  background: linear-gradient(135deg, #833ab4 0%, #fd1d1d 52%, #fcb045 100%);
+}
+
+.btn-instagram:hover {
+  background: linear-gradient(135deg, #6f2e9a 0%, #e01717 52%, #e99b31 100%);
+}
+
+.btn-tiktok {
+  background: #111111;
+}
+
+.btn-tiktok:hover {
+  background: #303030;
+}
